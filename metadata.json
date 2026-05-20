@@ -1,0 +1,6 @@
+{
+  "name": "HelaSmart Keyboard",
+  "description": "A feature-rich customizable Sinhala-English phonetic Singlish keyboard with automatic predictions, Helakuru themes, secure clipboard, font customizer, daily news, privacy controllers, and Gemini AI-powered writing assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
